@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-02-19 12:34">
+<shop>
+<name>english-discussions</name>
+<company>English Discussions</company>
+<url>https://english-discussions.ru</url>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="101">Начальный</category>
+<category id="102">Продвинутый уровень</category>
+<category id="103">Бизнес</category>
+<category id="104">Интенсив</category>
+</categories>
+<offers>
+<offer id="1" available="true">
+<url>https://english-discussions.ru/courses/english-discussions-bazovyj</url>
+<price>5000</price>
+<currencyId>RUR</currencyId>
+<categoryId>101</categoryId>
+<picture>https://english-discussions.ru/images/courses/bazovyj.png</picture>
+<name>English Discussions. Базовый</name>
+<description><![CDATA[Базовый курс для изучения английского языка через обсуждения.]]></description>
+<param name="Дополнительная категория">Начальный</param>
+<param name="Ссылка на контент курса">https://english-discussions.ru/courses/english-discussions-bazovyj/content</param>
+<param name="Цена по скидке">4000</param>
+<param name="Дата окончания скидки">2025-03-31</param>
+<param name="Цена за подписку">0</param>
+<param name="Оплата в рассрочку">0</param>
+<param name="Ежемесячная цена">0</param>
+<param name="Ежемесячная цена по скидке">0</param>
+<param name="Дата окончания ежемесячной скидки"></param>
+<param name="Ближайшая дата">2025-02-28</param>
+<param name="Продолжительность">3 месяца</param>
+<param name="План">Введение (2ч), Грамматика (20ч), Практика (15ч)</param>
+<param name="Формат обучения">Самостоятельно с наставником</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">true</param>
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">true</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">true</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">true</param>
+<param name="С трудоустройством">false</param>
+<param name="Результат обучения">Уверенное владение базовыми навыками английского</param>
+<param name="Часы в неделю">5</param>
+</offer>
+<offer id="2" available="true">
+<url>https://english-discussions.ru/courses/english-discussions-prodvinutyj</url>
+<price>7000</price>
+<currencyId>RUR</currencyId>
+<categoryId>102</categoryId>
+<picture>https://english-discussions.ru/images/courses/prodvinutyj.png</picture>
+<name>English Discussions. Продвинутый</name>
+<description><![CDATA[Курс для улучшения разговорных навыков.]]></description>
+<param name="Дополнительная категория">Продвинутый уровень</param>
+<param name="Ссылка на контент курса">https://english-discussions.ru/courses/english-discussions-prodvinutyj/content</param>
+<param name="Цена по скидке">6000</param>
+<param name="Дата окончания скидки">2025-04-15</param>
+<param name="Цена за подписку">0</param>
+<param name="Оплата в рассрочку">0</param>
+<param name="Ежемесячная цена">0</param>
+<param name="Ежемесячная цена по скидке">0</param>
+<param name="Дата окончания ежемесячной скидки"></param>
+<param name="Ближайшая дата">2025-03-10</param>
+<param name="Продолжительность">4 месяца</param>
+<param name="План">Повторение (3ч), Углубление (25ч), Практика (15ч)</param>
+<param name="Формат обучения">Самостоятельно с наставником</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">true</param>
+<param name="Есть вебинары">true</param>
+<param name="Есть домашние работы">true</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">true</param>
+<param name="Сложность">Для опытных</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">true</param>
+<param name="С трудоустройством">false</param>
+<param name="Результат обучения">Улучшение разговорного английского</param>
+<param name="Часы в неделю">6</param>
+</offer>
+<offer id="3" available="true">
+<url>https://english-discussions.ru/courses/business-english</url>
+<price>8000</price>
+<currencyId>RUR</currencyId>
+<categoryId>103</categoryId>
+<picture>https://english-discussions.ru/images/courses/business.png</picture>
+<name>Business English Discussions</name>
+<description><![CDATA[Курс для развития делового общения на английском.]]></description>
+<param name="Дополнительная категория">Бизнес</param>
+<param name="Ссылка на контент курса">https://english-discussions.ru/courses/business-english/content</param>
+<param name="Цена по скидке">7000</param>
+<param name="Дата окончания скидки">2025-04-01</param>
+<param name="Цена за подписку">0</param>
+<param name="Оплата в рассрочку">0</param>
+<param name="Ежемесячная цена">0</param>
+<param name="Ежемесячная цена по скидке">0</param>
+<param name="Дата окончания ежемесячной скидки"></param>
+<param name="Ближайшая дата">2025-03-05</param>
+<param name="Продолжительность">5 месяцев</param>
+<param name="План">Деловая лексика (4ч), Переговоры (20ч), Презентации (10ч)</param>
+<param name="Формат обучения">Самостоятельно с наставником</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">true</param>
+<param name="Есть вебинары">true</param>
+<param name="Есть домашние работы">true</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">true</param>
+<param name="Сложность">Для опытных</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">true</param>
+<param name="С трудоустройством">false</param>
+<param name="Результат обучения">Развитие навыков делового общения</param>
+<param name="Часы в неделю">7</param>
+</offer>
+<offer id="4" available="true">
+<url>https://english-discussions.ru/courses/english-discussions-intensive</url>
+<price>10000</price>
+<currencyId>RUR</currencyId>
+<categoryId>104</categoryId>
+<picture>https://english-discussions.ru/images/courses/intensive.png</picture>
+<name>English Discussions. Intensive</name>
+<description><![CDATA[Интенсивный курс для быстрого освоения английского.]]></description>
+<param name="Дополнительная категория">Интенсив</param>
+<param name="Ссылка на контент курса">https://english-discussions.ru/courses/english-discussions-intensive/content</param>
+<param name="Цена по скидке">8500</param>
+<param name="Дата окончания скидки">2025-03-20</param>
+<param name="Цена за подписку">0</param>
+<param name="Оплата в рассрочку">0</param>
+<param name="Ежемесячная цена">0</param>
+<param name="Ежемесячная цена по скидке">0</param>
+<param name="Дата окончания ежемесячной скидки"></param>
+<param name="Ближайшая дата">2025-03-15</param>
+<param name="Продолжительность">2 месяца</param>
+<param name="План">Интенсивная практика (5ч), Тестирование (10ч), Итоговый проект (15ч)</param>
+<param name="Формат обучения">В группе c наставником</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">true</param>
+<param name="Есть вебинары">true</param>
+<param name="Есть домашние работы">true</param>
+<param name="Есть тренажеры">true</param>
+<param name="Есть сообщество">true</param>
+<param name="Сложность">Для опытных</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">false</param>
+<param name="С трудоустройством">true</param>
+<param name="Результат обучения">Быстрый прогресс в изучении языка</param>
+<param name="Часы в неделю">10</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog> при загрузке в яндекс мастер появляется ошибка Некорректное значение Content-Type. Разрешенные значения Content-Type: application/xml, text/xml, application/octet-stream.
